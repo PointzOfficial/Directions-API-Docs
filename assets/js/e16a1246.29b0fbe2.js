@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpointz_api_doc=self.webpackChunkpointz_api_doc||[]).push([[2523],{1170:e=>{e.exports=JSON.parse('{"permalink":"/Pointz-Api-Doc-Web/blog/tags/greetings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpointz_api_doc=self.webpackChunkpointz_api_doc||[]).push([[8434],{1145:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/Pointz-Api-Doc-Web/blog/tags/greetings","allTagsPath":"/Pointz-Api-Doc-Web/blog/tags","count":1,"unlisted":false}')}}]);

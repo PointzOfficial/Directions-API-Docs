@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpointz_api_doc=self.webpackChunkpointz_api_doc||[]).push([[762],{9181:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Pointz-Api-Doc-Web/blog/tags/docusaurus","allTagsPath":"/Pointz-Api-Doc-Web/blog/tags","count":4,"unlisted":false}')}}]);

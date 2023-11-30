@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpointz_api_doc=self.webpackChunkpointz_api_doc||[]).push([[1743],{7574:(e,a,c)=>{c.r(a),c.d(a,{default:()=>n});c(7294);var i=c(7961),s=c(5893);function n(){return(0,s.jsxs)(i.Z,{children:[(0,s.jsx)("h1",{children:"My React page"}),(0,s.jsx)("p",{children:"This is a React page"})]})}}}]);
